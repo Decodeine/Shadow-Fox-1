@@ -1,0 +1,5 @@
+
+def func (a,b):
+    result= " a number {} and a string '{}'.".format(a,b)
+
+print(func(145,"o"))
